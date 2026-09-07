@@ -26,6 +26,7 @@
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/VTU29388/Applied-Coding-Skills/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/VTU29388/Applied-Coding-Skills/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/VTU29388/Applied-Coding-Skills/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/VTU29388/Applied-Coding-Skills/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/VTU29388/Applied-Coding-Skills/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +65,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/VTU29388/Applied-Coding-Skills/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/VTU29388/Applied-Coding-Skills/tree/master/0739-daily-temperatures) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
