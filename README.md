@@ -57,6 +57,7 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/VTU29388/Applied-Coding-Skills/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/VTU29388/Applied-Coding-Skills/tree/master/0496-next-greater-element-i) |
+| [0704-binary-search](https://github.com/VTU29388/Applied-Coding-Skills/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/VTU29388/Applied-Coding-Skills/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/VTU29388/Applied-Coding-Skills/tree/master/0977-squares-of-a-sorted-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/VTU29388/Applied-Coding-Skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -96,4 +97,8 @@
 |  |
 | ------- |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/VTU29388/Applied-Coding-Skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/VTU29388/Applied-Coding-Skills/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
