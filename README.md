@@ -21,6 +21,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/VTU29388/Applied-Coding-Skills/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/VTU29388/Applied-Coding-Skills/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/VTU29388/Applied-Coding-Skills/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/VTU29388/Applied-Coding-Skills/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/VTU29388/Applied-Coding-Skills/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/VTU29388/Applied-Coding-Skills/tree/master/0739-daily-temperatures) |
+| [0977-squares-of-a-sorted-array](https://github.com/VTU29388/Applied-Coding-Skills/tree/master/0977-squares-of-a-sorted-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/VTU29388/Applied-Coding-Skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Hash Table
 |  |
@@ -73,4 +75,8 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/VTU29388/Applied-Coding-Skills/tree/master/0142-linked-list-cycle-ii) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/VTU29388/Applied-Coding-Skills/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
