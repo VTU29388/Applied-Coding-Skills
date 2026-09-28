@@ -55,6 +55,7 @@
 ## Array
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/VTU29388/Applied-Coding-Skills/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/VTU29388/Applied-Coding-Skills/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/VTU29388/Applied-Coding-Skills/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/VTU29388/Applied-Coding-Skills/tree/master/0977-squares-of-a-sorted-array) |
@@ -64,6 +65,7 @@
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/VTU29388/Applied-Coding-Skills/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VTU29388/Applied-Coding-Skills/tree/master/0160-intersection-of-two-linked-lists) |
+| [0219-contains-duplicate-ii](https://github.com/VTU29388/Applied-Coding-Skills/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/VTU29388/Applied-Coding-Skills/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -79,4 +81,8 @@
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/VTU29388/Applied-Coding-Skills/tree/master/0977-squares-of-a-sorted-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/VTU29388/Applied-Coding-Skills/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
